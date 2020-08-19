@@ -1,4 +1,4 @@
-# ColUniv-MLDatasetsInfectDisease
+ML Datasets Infect Disease - Covid19
 
 ### Which ML technique(s) and library packages (built using which languages) are popular? 
 In the paper I read, most authors utilized Python, some of them used R. The academic literature search showed that various ML algorithms are used by previous researchers. Random Forest, SVM, KNN,CNN, DNN, PCA are commonly used.
